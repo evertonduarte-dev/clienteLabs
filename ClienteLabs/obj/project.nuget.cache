@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SiQjNY6CSnY=",
+  "dgSpecHash": "SoYkvi2Iyes=",
   "success": true,
-  "projectFilePath": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\ClienteLabs.csproj",
+  "projectFilePath": "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\ClienteLabs\\ClienteLabs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThinkPad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

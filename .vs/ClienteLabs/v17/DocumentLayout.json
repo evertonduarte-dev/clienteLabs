@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ClienteLabs\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ClienteLabs\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:28:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ClienteLabs\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ClienteLabs\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:28:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClienteLabs\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClienteLabs\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T19:28:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ClienteLabs\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ClienteLabs\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T19:28:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClienteLabs\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "ClienteLabs\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T19:28:03.387Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "ClienteLabs\\Models\\Genero.cs",
               "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Models\\Genero.cs",
               "RelativeToolTip": "ClienteLabs\\Models\\Genero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T18:52:54.8Z",
               "EditorCaption": ""

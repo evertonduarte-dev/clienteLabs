@@ -12,7 +12,7 @@ namespace ClienteLabs.Models
 
         public Cliente Cliente { get; set; }
 
-        public int teste { get; set; }
+        
 
         public Genero()
         {
