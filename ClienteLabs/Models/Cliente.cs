@@ -8,7 +8,7 @@ namespace ClienteLabs.Models
     public class Cliente
     {
         [Key]
-        [Required(ErrorMessage = "O CPF/CNPJ deve ser informado")]
+        [Required(ErrorMessage = "O CPF/CNPJ deve ser informado!")]
         [Display(Name = "CPF/CNPJ")]
         [StringLength(20, MinimumLength = 20, ErrorMessage = "O {0} deve ter no mínimo {1} e no máximo {2} caracteres")]
         public string CPFCNPJ { get; set; }
