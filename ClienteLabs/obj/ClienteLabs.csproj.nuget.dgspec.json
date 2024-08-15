@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\ClienteLabs\\ClienteLabs.csproj": {}
+    "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\ClienteLabs.csproj": {}
   },
   "projects": {
-    "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\ClienteLabs\\ClienteLabs.csproj": {
+    "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\ClienteLabs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\ClienteLabs\\ClienteLabs.csproj",
+        "projectUniqueName": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\ClienteLabs.csproj",
         "projectName": "ClienteLabs",
-        "projectPath": "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\ClienteLabs\\ClienteLabs.csproj",
+        "projectPath": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\ClienteLabs.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\ClienteLabs\\obj\\",
+        "outputPath": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",

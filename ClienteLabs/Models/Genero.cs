@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.Extensions.WebEncoders.Testing;
+using System.ComponentModel.DataAnnotations;
 
 namespace ClienteLabs.Models
 {
@@ -10,6 +11,8 @@ namespace ClienteLabs.Models
         public string Nome { get; set; }
 
         public Cliente Cliente { get; set; }
+
+        public int teste { get; set; }
 
         public Genero()
         {

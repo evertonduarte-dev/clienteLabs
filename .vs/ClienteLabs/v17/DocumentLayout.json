@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_NET\\ASP.NET CORE MVC\\ClienteLabs\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|c:\\_net\\asp.net core mvc\\clientelabs\\clientelabs\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50950B95-376E-458F-984F-762E9D4CFFC4}|ClienteLabs\\ClienteLabs.csproj|solutionrelative:clientelabs\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "ClienteLabs\\Models\\Genero.cs",
+              "ToolTip": "C:\\_NET\\ASP.NET CORE MVC\\clienteLabs\\ClienteLabs\\Models\\Genero.cs",
+              "RelativeToolTip": "ClienteLabs\\Models\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:52:54.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
