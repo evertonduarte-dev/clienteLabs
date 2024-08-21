@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -46,8 +50,7 @@
               "RelativeToolTip": "ClienteLabs\\Controllers\\ClientesController.cs",
               "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T19:28:22.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:28:22.6Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "RelativeToolTip": "ClienteLabs\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T19:28:16.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:28:16.446Z"
             },
             {
               "$type": "Document",
@@ -72,8 +74,7 @@
               "RelativeToolTip": "ClienteLabs\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T19:28:13.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:28:13.462Z"
             },
             {
               "$type": "Document",
@@ -85,8 +86,7 @@
               "RelativeToolTip": "ClienteLabs\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T19:28:11.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:28:11.404Z"
             },
             {
               "$type": "Document",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "ClienteLabs\\Views\\Clientes\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T19:28:03.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:28:03.387Z"
             },
             {
               "$type": "Document",
